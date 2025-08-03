@@ -1,7 +1,7 @@
 # Heart-Racer
-TLDR: Arduino Heart rate monitor that displays a message on an I2C screen if changes quickly 
+TLDR: Arduino heart rate monitor that displays a message on an I2C screen if the heart rate changes quickly
 
-Objective: Display a prewritten message on a screen for 10 seconds based on the level of change in heart rate over 10 seconds
+Aim: Display a prewritten message on a screen for 10 seconds based on how much the heart rate changes over a 10-second period.
 
 Materials Used:
 -FREENOVE I2C IIC LCD 1602 Module (ESP32 ESP8266)
